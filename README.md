@@ -17,4 +17,5 @@ Hirely is a platform where candidates can get hired by the recruiters from diffe
 
 ![image](https://github.com/TiredEyesOni/hirely/assets/49983529/19e86968-87ba-4f17-97db-9e88c39d0137)
 
-![image](https://github.com/TiredEyesOni/hirely/assets/49983529/5c4c5bab-b7f3-45ef-a8d8-e1351becbdb6)
+![image](https://github.com/TiredEyesOni/hirely/assets/49983529/144fb850-0320-481d-bd7d-1a19f2d49c5c)
+
